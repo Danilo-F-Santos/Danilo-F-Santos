@@ -1,10 +1,11 @@
 ## Bem-vindo(a) ao perfil do Danilo-F-Santos
  😁
 
- <div>
-  <a href="https://github.com/Danilo-F-Santos">
+<div>
+  <a href="https://github.com/Danilo-F-Santos
+">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo-F-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-F-Santos&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-F-Santos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,16 +15,15 @@
  
  <br>
  
-  ### Programador Iniciante
+  ### Programador iniciante
  
 <div> 
+ 
 
-  
 
+  <a href = "mailto:danilotti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-santos-378603230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Danilo-F-Santos
-/Danilo-F-Santos
-/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Danilo-F-Santos/Danilo-F-Santos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
